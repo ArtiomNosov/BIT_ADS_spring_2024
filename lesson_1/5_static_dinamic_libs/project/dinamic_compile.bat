@@ -1,0 +1,1 @@
+gcc -o project *.o -L../library -lmy2 -Wl,-rpath,../library/
